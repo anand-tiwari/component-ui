@@ -1,4 +1,6 @@
-const files = {}
+const files = {
+    "cards": "../components/cards/cards.html",
+}
 
 /* function renderComponent(component) {
 
@@ -15,7 +17,7 @@ async function renderComponentAsync(component) {
 }
 
 
-let initial = '';
+let initial = 'cards';
 const sidebar = document.getElementById("sidebar__list")
 sidebar && sidebar.addEventListener('click', function(e) {
     renderComponentAsync(e.target.dataset.component)
