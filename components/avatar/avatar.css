@@ -1,0 +1,42 @@
+.avatar-container {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    position: relative;
+}
+
+.avatar__figure {
+    width: 1rem;
+    height: 0;
+    padding-bottom: 0.5em;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.avatar__img,
+.avatar__placeholder {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+}
+
+.avatar--sm {
+    width: var(--avatar-sm);
+    height: var(--avatar-sm);
+}
+
+.avatar--md {
+    width: var(--avatar-md);
+    height: var(--avatar-md);
+}
+
+.avatar--lg {
+    width: var(--avatar-lg);
+    height: var(--avatar-lg);
+}
