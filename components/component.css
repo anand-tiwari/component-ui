@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;600&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --alert-primary: #CCE5FE;
+    --alert-success: #D4EDD9;
+    --alert-danger: #F8D7D9;
+    --alert-warning: #FFF3CD;
+    --avatar-sm: 4rem;
+    --avatar-md: 6rem;
+    --avatar-lg: 8rem;
+    --light-grey: #7b7b7b;
+    --primary: #007bff;
+    --light-black: #d4d5d9;
+    --white: #FFFFFF;
+    --black: #000000;
+    --light-pink: #f50057;
+    --light-color: white;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
