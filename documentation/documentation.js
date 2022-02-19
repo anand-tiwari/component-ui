@@ -1,7 +1,11 @@
 const files = {
     "cards": "../components/cards/cards.html",
     "alert": "../components/alert/alert.html",
-    "button": "../components/button/button.html"
+    "button": "../components/button/button.html",
+    "avatar": "../components/avatar/avatar.html",
+    "image": "../components/image/image.html",
+    "button": "../components/button/button.html",
+    "form": "../components/form/form.html"
 }
 
 /* function renderComponent(component) {

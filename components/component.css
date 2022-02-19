@@ -2,6 +2,9 @@
 @import url(./cards/cards.css);
 @import url(./alert/alert.css);
 @import url(./button/button.css);
+@import url(./avatar/avatar.css);
+@import url(./image/image.css);
+@import url(./form/form.css);
 * {
     padding: 0;
     margin: 0;
@@ -23,12 +26,15 @@
     --light-black: #d4d5d9;
     --white: #FFFFFF;
     --black: #000000;
+    --lighter-black: #e9e8e8;
     --light-pink: #f50057;
     --light-color: white;
     --light-blue: #0f71d3;
     --light-green: #b7d5bd;
     --light-red: #cdb8ba;
-    --light-yellow: d1c7a8;
+    --light-yellow: #d1c7a8;
+    --red: #ff0000;
+    --green: #008000;
 }
 
 html {
