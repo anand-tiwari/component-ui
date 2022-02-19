@@ -12,20 +12,20 @@
 
 .cs-alert-primary {
     background-color: var(--alert-primary);
-    border-color: #0f71d3;
+    border-color: var(light-blue);
 }
 
 .cs-alert-success {
     background-color: var(--alert-success);
-    border-color: #b7d5bd;
+    border-color: var(--light-green);
 }
 
 .cs-alert-danger {
     background-color: var(--alert-danger);
-    border-color: #cdb8ba;
+    border-color: var(--light-red);
 }
 
 .cs-alert-warning {
     background-color: var(--alert-warning);
-    border-color: #d1c7a8;
+    border-color: var(--light-yellow);
 }
