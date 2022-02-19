@@ -1,6 +1,7 @@
 const files = {
     "alert": "../components/alert/alert.html",
-    "button": "../components/button/button.html"
+    "button": "../components/button/button.html",
+    "image": "../components/image/image.html"
 }
 
 /* function renderComponent(component) {
