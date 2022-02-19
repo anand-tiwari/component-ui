@@ -12,7 +12,7 @@
 
 .cs-alert-primary {
     background-color: var(--alert-primary);
-    border-color: var(light-blue);
+    border-color: var(--light-blue);
 }
 
 .cs-alert-success {
