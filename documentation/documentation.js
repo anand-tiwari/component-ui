@@ -1,4 +1,5 @@
 const files = {
+    "cards": "../components/cards/cards.html",
     "alert": "../components/alert/alert.html",
     "button": "../components/button/button.html",
     "avatar": "../components/avatar/avatar.html",
