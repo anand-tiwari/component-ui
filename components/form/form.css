@@ -5,7 +5,7 @@
 }
 
 .color-red {
-    color: red;
+    color: var(--red);
 }
 
 .custom__input {
@@ -21,7 +21,7 @@
 .custom__input-success,
 .custom__input-success:focus {
     outline: none;
-    border: 0.2rem solid green;
+    border: 0.2rem solid var(--green);
 }
 
 .custom__input-error,
@@ -53,5 +53,5 @@ input:not(:placeholder-shown)~.floating-label {
 
 .success {
     background-color: var(--lighter-black);
-    color: green;
+    color: var(--green);
 }

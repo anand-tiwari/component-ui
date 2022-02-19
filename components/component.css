@@ -27,7 +27,9 @@
     --light-blue: #0f71d3;
     --light-green: #b7d5bd;
     --light-red: #cdb8ba;
-    --light-yellow: d1c7a8;
+    --light-yellow: #d1c7a8;
+    --red: #ff0000;
+    --green: #008000;
 }
 
 html {
