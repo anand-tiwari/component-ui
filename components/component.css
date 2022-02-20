@@ -6,6 +6,7 @@
 @import url(./image/image.css);
 @import url(./form/form.css);
 @import url(./rating/rating.css);
+@import url(./lists/lists.css);
 @import url(./toast/toast.css);
 * {
     padding: 0;
