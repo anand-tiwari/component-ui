@@ -5,3 +5,15 @@
 .rating-active {
     color: var(--yellow);
 }
+
+.rating-sm {
+    font-size: 1.6rem;
+}
+
+.rating-md {
+    font-size: 2rem;
+}
+
+.rating-lg {
+    font-size: 2.2rem;
+}
