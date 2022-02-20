@@ -1,0 +1,7 @@
+.rating__container {
+    padding: 0.5rem;
+}
+
+.rating-active {
+    color: var(--red);
+}
