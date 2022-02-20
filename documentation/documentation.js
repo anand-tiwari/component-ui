@@ -6,7 +6,8 @@ const files = {
     "image": "../components/image/image.html",
     "button": "../components/button/button.html",
     "form": "../components/form/form.html",
-    "rating": "../components/rating/rating.html"
+    "rating": "../components/rating/rating.html",
+    "lists": "../components/lists/lists.html"
 }
 
 /* function renderComponent(component) {
@@ -24,7 +25,7 @@ async function renderComponentAsync(component) {
 }
 
 
-let initial = 'rating';
+let initial = 'lists';
 const sidebar = document.getElementById("sidebar__list")
 sidebar && sidebar.addEventListener('click', function(e) {
     renderComponentAsync(e.target.dataset.component)
