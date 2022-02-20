@@ -7,6 +7,7 @@ const files = {
     "button": "../components/button/button.html",
     "form": "../components/form/form.html",
     "rating": "../components/rating/rating.html",
+    "lists": "../components/lists/lists.html",
     "badge": "../components/badge/badge.html"
 }
 

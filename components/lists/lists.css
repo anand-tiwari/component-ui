@@ -1,0 +1,50 @@
+.content__border {
+    border: 0.1rem solid var(--light-grey);
+}
+
+.list__container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.list-body {
+    padding-right: 1.5rem;
+}
+
+.squared {
+    list-style: square;
+}
+
+.rounded {
+    list-style: circle;
+}
+
+.style-none {
+    list-style: none;
+}
+
+.list-item {
+    padding: 0.2rem 0.6rem;
+}
+
+.alphabets-list {
+    list-style: lower-alpha;
+}
+
+.upper-alphabets-list {
+    list-style: upper-alpha;
+}
+
+.list__container-ordered {
+    display: flex;
+    flex-direction: column;
+}
+
+.roman-list {
+    list-style: lower-roman;
+}
+
+.upper-roman {
+    list-style: upper-roman;
+}

@@ -7,6 +7,7 @@
 @import url(./form/form.css);
 @import url(./rating/rating.css);
 @import url(./badge/badge.css);
+@import url(./lists/lists.css);
 * {
     padding: 0;
     margin: 0;
