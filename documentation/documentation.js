@@ -8,7 +8,8 @@ const files = {
     "form": "../components/form/form.html",
     "rating": "../components/rating/rating.html",
     "lists": "../components/lists/lists.html",
-    "modal": "../components/modal/modal.html"
+    "modal": "../components/modal/modal.html",
+    "toast": "../components/toast/toast.html"
 }
 
 /* function renderComponent(component) {
@@ -26,7 +27,7 @@ async function renderComponentAsync(component) {
 }
 
 
-let initial = 'modal';
+let initial = 'toast';
 const sidebar = document.getElementById("sidebar__list")
 sidebar && sidebar.addEventListener('click', function(e) {
     renderComponentAsync(e.target.dataset.component)
