@@ -8,6 +8,7 @@
 @import url(./rating/rating.css);
 @import url(./badge/badge.css);
 @import url(./lists/lists.css);
+@import url(./toast/toast.css);
 @import url(./modal/modal.css);
 * {
     padding: 0;
@@ -29,6 +30,8 @@
     --primary: #007bff;
     --light-black: #d4d5d9;
     --white: #FFFFFF;
+    --secondary-white: #F8F9FA;
+    --secondary-grey: #f0f3f3;
     --black: #000000;
     --lighter-black: #e9e8e8;
     --light-pink: #f50057;
