@@ -8,6 +8,7 @@ const files = {
     "form": "../components/form/form.html",
     "rating": "../components/rating/rating.html",
     "lists": "../components/lists/lists.html",
+    "modal": "../components/modal/modal.html",
     "toast": "../components/toast/toast.html"
 }
 
