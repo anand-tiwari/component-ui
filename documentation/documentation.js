@@ -9,7 +9,8 @@ const files = {
     "rating": "../components/rating/rating.html",
     "lists": "../components/lists/lists.html",
     "modal": "../components/modal/modal.html",
-    "toast": "../components/toast/toast.html"
+    "toast": "../components/toast/toast.html",
+    "badge": "../components/badge/badge.html"
 }
 
 /* function renderComponent(component) {
