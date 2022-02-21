@@ -8,6 +8,7 @@
 @import url(./rating/rating.css);
 @import url(./badge/badge.css);
 @import url(./lists/lists.css);
+@import url(./modal/modal.css);
 * {
     padding: 0;
     margin: 0;
