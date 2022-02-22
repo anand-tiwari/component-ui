@@ -52,3 +52,26 @@ html {
 body {
     font-size: 1.6rem;
 }
+@media screen and (max-width: 750px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    html {
+        font-size: 30%;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    html {
+        font-size: 20%;
+    }
+}
+
+@media screen and (max-width: 170px) {
+    html {
+        font-size: 10%;
+    }
+}
