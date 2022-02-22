@@ -38,8 +38,7 @@
 
 .card__container_horizentol {
     flex-direction: row;
-    width: 60rem;
-    height: 40rem;
+    width: 100%;
 }
 
 .card__container_vertical {
@@ -70,7 +69,7 @@
     position: absolute;
     top: 0.8rem;
     left: 0;
-    width: 130px;
+    width: 13rem;
     clip-path: polygon(0% 0%, 71% 0%, 53% 50%, 69% 97%, 0 97%);
 }
 
